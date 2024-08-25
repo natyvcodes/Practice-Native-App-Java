@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="title">Nata App</string>
+    <string name="parrafo1">
+        Este es un ejercicio de practica
+        para conocer las funcionalidades
+        de Android Studio y para crear App
+        con virus
+    </string>
+</resources>
